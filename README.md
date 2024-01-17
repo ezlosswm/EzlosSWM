@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 An average guy having fun learning how the web works. I enjoy building small scale projects in Go and JavaScript.
 
-I am currently working on an [expense tracker](https://github.com/EzlosSWM/expense-tracker). Through the project I'm learning more about React, Docker & Tailwind.
+I am currently working on an an Astro website for a friend(sorry, it's private for now). 
 
 Little about me
 - I'm a Belizean 🇧🇿
@@ -28,4 +28,4 @@ Little about me
 - I have 4 loving doggs🐶
     - Mochi, Kurb, Atlas & Tobi
 - I love playing basketball 🏀 and going to the gym 🏋 (even though I haven't been going recently)
-- I daily drive Ubuntu
+- Unfortunately running Debian on WSL2.
